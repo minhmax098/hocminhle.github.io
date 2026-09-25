@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: /minhmax098.github.io/sitemap.xml
+Sitemap: https://minhmax098.github.io/sitemap.xml
